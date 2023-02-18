@@ -1,0 +1,14 @@
+{
+  "name": "@yonycalsin/packages-monorepo-starter",
+  "private": true,
+  "license": "ISC",
+  "author": "Yony Calsin",
+  "scripts": {},
+  "packageManager": "pnpm@7.14.2",
+  "engines": {
+    "node": "16.15.0"
+  },
+  "volta": {
+    "node": "16.15.0"
+  }
+}
