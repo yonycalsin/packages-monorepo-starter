@@ -17,7 +17,7 @@
     "dev": "tsup src/index.ts --format esm,cjs --watch --dts"
   },
   "devDependencies": {
-    "@packages-monorepo-starter/tsconfig": "0.2.0",
+    "@packages-monorepo-starter/tsconfig": "workspace:*",
     "@types/node": "18.14.0",
     "rimraf": "4.1.2",
     "tsup": "6.6.3",
