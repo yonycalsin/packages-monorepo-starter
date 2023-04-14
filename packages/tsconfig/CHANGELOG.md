@@ -1,5 +1,11 @@
 # @packages-monorepo-starter/tsconfig
 
+## 0.3.0
+
+### Minor Changes
+
+- [`aa20a26`](https://github.com/yonycalsin/packages-monorepo-starter/commit/aa20a269a250e6453097892775c1dd780892939e) Thanks [@yonycalsin](https://github.com/yonycalsin)! - minor changes
+
 ## 0.2.0
 
 ### Minor Changes
