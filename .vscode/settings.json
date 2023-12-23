@@ -6,8 +6,8 @@
   "editor.detectIndentation": false,
   "typescript.tsdk": "node_modules\\.pnpm\\typescript@4.9.5\\node_modules\\typescript\\lib",
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  },
+    "source.fixAll.eslint": "explicit"
+},
   "eslint.workingDirectories": [
     {
       "directory": "./packages/common"
