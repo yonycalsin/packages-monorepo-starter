@@ -1,5 +1,11 @@
 # @packages-monorepo-starter/common
 
+## 0.4.0
+
+### Minor Changes
+
+- [`5b65f0d`](https://github.com/yonycalsin/packages-monorepo-starter/commit/5b65f0d9f242a9c1e607fdfc17e7720a55e0a709) Thanks [@yonycalsin](https://github.com/yonycalsin)! - update node, pnpm, and dependencies
+
 ## 0.3.0
 
 ### Minor Changes
