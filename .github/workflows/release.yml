@@ -16,9 +16,9 @@ jobs:
 
     strategy:
       matrix:
-        node: ['16.15.0']
+        node: [20.10.0]
         os: [ubuntu-latest]
-        pnpm: [7.30.3]
+        pnpm: [8.11.0]
 
     steps:
       - name: Checkout Repo
@@ -32,7 +32,7 @@ jobs:
           git config --global user.name 'Yony Calsin'
           git config --global user.email '58490737+yonycalsin@users.noreply.github.com'
 
-      - name: Setup pnpm 7
+      - name: Setup pnpm
         uses: pnpm/action-setup@v2
         with:
           version: ${{ matrix.pnpm }}
