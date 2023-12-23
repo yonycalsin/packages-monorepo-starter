@@ -13,15 +13,15 @@ jobs:
 
     strategy:
       matrix:
-        node: ['16.15.0']
+        node: [20.10.0]
         os: [ubuntu-latest, windows-latest, macOS-latest]
-        pnpm: [7.30.3]
+        pnpm: [8.11.0]
 
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Setup pnpm 7
+      - name: Setup pnpm
         uses: pnpm/action-setup@v2
         with:
           version: ${{ matrix.pnpm }}
