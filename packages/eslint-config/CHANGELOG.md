@@ -1,5 +1,11 @@
 # @packages-monorepo-starter/eslint-config
 
+## 0.4.0
+
+### Minor Changes
+
+- [`3ad5494`](https://github.com/yonycalsin/packages-monorepo-starter/commit/3ad54943dc6a4f92796cd51ca0d1310ecdeb9f1f) Thanks [@yonycalsin](https://github.com/yonycalsin)! - purge dependencies
+
 ## 0.3.0
 
 ### Minor Changes
